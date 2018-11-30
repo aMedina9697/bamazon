@@ -11,7 +11,7 @@ let connection = mysql.createConnection({
   user: "root",
 
   // Your password
-  password: "Orange32",
+  password: "",
   database: "bamazon"
 });
 
