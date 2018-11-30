@@ -2,7 +2,7 @@
 
 ### Challenge #1: Customer View (Minimum Requirement)
 
-![Alt text](/assets/pictures/bamazon1.png)
+![Alt text](/pictures/bamazon1.png)
 
 1. Create a MySQL Database called `bamazon`.
 
@@ -45,7 +45,7 @@
 
 ### Challenge #2: Manager View (Next Level)
 
-![Alt text](/assets/pictures/bamazon2.png)
+![Alt text](/pictures/bamazon2.png)
 
 - Create a new Node application called `bamazonManager.js`. Running this application will:
 
